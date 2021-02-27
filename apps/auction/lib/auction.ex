@@ -1,5 +1,5 @@
 defmodule Auction do
-  alias Auction.{Repo, Item}
+  alias Auction.{Item}
 
   @repo Auction.Repo
 
